@@ -20,6 +20,10 @@ Une API robuste et modulaire en **Python (FastAPI)** conçue pour scraper automa
 - [x] **Torr9** (LocalStorage Token / Bonus inclus)
 - [x] **Gemini** (API Key Support)
 - [x] **Generation Free** (API Key Support)
+- [X] **Crazyspirits.py** (Creditentials)
+- [X] **Nostradamus** (Private key)
+- [X] **TheOldSchool** (API TOKEN)
+- [X] **La Cale** (Credentials)
 
 ---
 
